@@ -104,12 +104,6 @@ def start_parsing(inputfile, outputfile, headers):
 #delivered_by_me = int(input("\nAmount delivered by me: "))
 
 
-#headers = {
- #   "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-  #  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
-   # "cookie": "_gcl_au=1.1.549214390.1655910190; noticebar_cookie=1; active_device_token=98cac07f99563b3f271fcb2deb2377b9; _gid=GA1.2.780909001.1656514509; history_offers=%5B%2211963923%22%2C%2211677598%22%2C%2220804142%22%2C%2223952467%22%5D; long_lived_token=d16a0c0caefbc53faff4e21e7efc2401; refresh_token=5319262.e0f819c97158df1d936e6fb696ce357d; _clck=v4ig5r|1|f2z|0; G2GSESID_V4=fhja4chk365s4hoqssdhm072r3; g2g_regional=%7B%22country%22%3A%22LT%22%2C%22currency%22%3A%22USD%22%2C%22language%22%3A%22en%22%7D; _ga_MESX7PR0C0=GS1.1.1657309374.92.1.1657310273.0; _ga=GA1.2.1058493214.1655910190; _clsk=sbm1ou|1657310274625|7|0|j.clarity.ms/collect"
-#}
-
 #req = requests.get(url, headers=headers)
 #src = req.text
 #print(src)
